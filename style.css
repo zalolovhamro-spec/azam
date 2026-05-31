@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+header {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.menu {
+    display: flex;
+    gap: 20px;
+}
+.menu1 {
+    display: flex;
+    gap: 20px;
+}
+.menu1 img {
+    width: 40px;
+}
+.menu a {
+    color: #222222;
+    text-decoration: none;
+}
+.menu2 h2{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+main {
+    background-image: url(imeges/image\ \(22\).png);
+    height: 708px;
+}
+.main {}
