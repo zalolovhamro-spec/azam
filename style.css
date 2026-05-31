@@ -14,7 +14,7 @@ header {
   gap: 10px;
   align-items: center;
 }
-.menu {
+.header {
   display: flex;
   gap: 20px;
 }
@@ -205,4 +205,68 @@ h1 {
   background: #a21010;
   color: white;
   padding: 18px 40px;
+}
+.section18 {
+      width: 6%;
+      margin: auto;
+}
+.section19 p{
+    color: #d77474;
+    text-align: center;
+}
+.section20 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section20 p {
+    font-size: 35px;
+    font-weight: 700;
+}
+.section21 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section21 input {
+    width: 320px;
+    height: 45px;
+}
+.section21 button {
+    width: 175px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-color: black;
+    margin-left: -30px;
+}
+.section22 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items:center;
+}
+.section23 {
+    width: 13px;
+    height: 13px;
+    background-color: #8534FF;
+}
+.section25 p{
+    font-size: 33px;
+    font-weight: 1000;
+    text-align: center;
+}
+.section26 p{
+    color: gray;
+    text-align: center;
+}
+.section28 {
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.section27 p {
+    color: gray;
 }
