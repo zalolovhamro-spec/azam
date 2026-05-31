@@ -270,3 +270,10 @@ h1 {
 .section27 p {
     color: gray;
 }
+footer p {
+    color: gray;
+    text-align: center;
+}
+footer span {
+    color: black;
+}
